@@ -13,7 +13,7 @@ Integration:
 5. Replace any unverified route, terminal, fare, schedule, luggage or immigration details with confirmed business information.
 6. The WhatsApp number used is +254 754 932 823.
 7. Canonical URLs currently point to:
-   https://victor-kibet-cybersecurity-guy.github.io/trinity-bus2/
+   https://trinity-bus.com/
 
 Important:
 These pages avoid inventing current fares, exact schedules, terminal details or immigration rules. Confirm live operational details before publishing.

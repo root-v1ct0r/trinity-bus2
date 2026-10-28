@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://victor-kibet-cybersecurity-guy.github.io/trinity-bus2/sitemap.xml
-Sitemap: https://victor-kibet-cybersecurity-guy.github.io/trinity-bus2/image-sitemap.xml
+Sitemap: https://trinity-bus.com/sitemap.xml
+Sitemap: https://trinity-bus.com/image-sitemap.xml
